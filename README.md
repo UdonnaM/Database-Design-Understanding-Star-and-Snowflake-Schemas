@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project explores two fundamental database design concepts: the Star Schema and the Snowflake Schema. These schemas are vital in organizing data for efficient querying, storage, and analysis in both transactional and analytical systems. By diving into these structures, I aim to demonstrate their significance in data science and how they apply to real-world data scenarios.
+This project explores two fundamental database design concepts: the Star Schema and the Snowflake Schema. These schemas are vital in organizing data for efficient querying, storage, and analysis in both transactional and analytical systems. Using Microsoft Access, I designed and implemented these schemas to better understand how they work in practice. By diving into these structures, I aim to demonstrate their significance in data science and how they apply to real-world data scenarios.
 
 **Key Concepts Explored**
 
