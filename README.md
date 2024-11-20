@@ -1,4 +1,4 @@
-# Database Design: Understanding-Star-and-Snowflake-Schemas
+# 𝑮𝒐𝒊𝒏𝒈 𝑩𝒂𝒄𝒌 𝒕𝒐 𝒕𝒉𝒆 𝑩𝒂𝒔𝒊𝒄𝒔: 𝑴𝒚 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑱𝒐𝒖𝒓𝒏𝒆𝒚 (𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑻𝒘𝒐) - Database Design: Understanding-Star-and-Snowflake-Schemas
 
 **Project Overview**
 
